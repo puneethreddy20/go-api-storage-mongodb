@@ -1,0 +1,8 @@
+
+http_address: :8080
+
+storage_url: "mongodb://172.18.0.10:27017/"
+
+database_name: "userdb"
+
+collection_name: "UsersInfo"
